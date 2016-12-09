@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Spark-Streaming-KMeans.iml" filepath="$PROJECT_DIR$/Spark-Streaming-KMeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark_module/spark_module.iml" filepath="$PROJECT_DIR$/spark_module/spark_module.iml" />
     </modules>
   </component>
 </project>
